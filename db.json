@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$12$d3lZX8mEgqWcikwH9szD1.GtKQvyTLqS06kCm7Z0YHIuDSKuUJ6lK",
+      "name": "Sumit Saha",
+      "avatar": "https://gravatar.com/avatar/966ffd9527509d24efba9514b056d5c2?size=80",
+      "id": 1
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$12$d3lZX8mEgqWcikwH9szD1.GtKQvyTLqS06kCm7Z0YHIuDSKuUJ6lK",
+      "name": "Test",
+      "avatar": "https://gravatar.com/avatar/1aedb8d9dc4751e229a335e371db8058?size=80",
+      "id": 2
+    }
+  ],
+  "teams": [
+    {
+      "name": "test",
+      "title": "Best Test Team",
+      "color": "#e91e63",
+      "author": {
+        "email": "sumit@learnwithsumit.com",
+        "name": "Sumit Saha",
+        "avatar": "https://gravatar.com/avatar/966ffd9527509d24efba9514b056d5c2?size=80",
+        "id": 1
+      },
+      "members": [
+        "sumit@learnwithsumit.com",
+        "test@gmail.com"
+      ],
+      "createdAt": "2022-09-27T08:03:01.907Z",
+      "id": 1
+    }
+  ],
+  "projects": []
+}
